@@ -1,1 +1,1 @@
-# AmongUs
+# AmongUs-BoilerPlate
